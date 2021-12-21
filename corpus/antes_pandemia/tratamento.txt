@@ -1,0 +1,644 @@
+Introdução
+A insônia pode ser definida como uma experiência subjetiva de sono inadequado, com dificuldade
+em iniciar ou na manutenção do sono, despertares precoces e “sono não reparador”, com repercussão no
+funcionamento sócio-ocupacional diurno.- Esta é uma das perturbações do sono mais comuns, sendo
+uma das queixas principais dos pacientes que recorrem aos cuidados médicos. Estudos transversais
+estimam uma prevalência de insônia entre  e % dos pacientes da Atenção Primária à Saúde. As
+perturbações do humor e da ansiedade estão presentes em  a % dos doentes com insônia, as doenças
+médicas e o abuso de substâncias em %, sendo apenas % resultante de perturbações primárias do
+sono. No DSM- é eliminado o termo de insônia primária, não existindo diferenciação entre insônia primária
+e secundária, passando-se a designar por perturbação de insônia.
+Assim, esta revisão tem como objetivo sistematizar a informação disponível sobre a melhor abordagem
+no tratamento da insônia em Atenção Primária à Saúde.
+
+Estratégia de Busca
+Revisão clássica com pesquisa de artigos, em maio de , nas bases de dados PubMed, UpToDate,
+Direção-Geral da Saúde, sites de medicina baseada em evidência (National Guidelines Clearinghouse,
+The Cochrane Library, TRIP) e referências bibliográficas dos artigos selecionados. Foram pesquisadas
+normas de orientação clínica, revisões sistemáticas, meta-análises e estudos originais. Utilizaram-se as
+palavras-chave insomnia e treatment.
+Foram selecionados artigos publicados entre  e  de maio de , nas línguas inglesa,
+portuguesa e espanhola, que se referem ao tratamento da insônia no adulto e idoso. Foram incluídos
+artigos sobre insônia associada à depressão, ansiedade e abuso de álcool, tendo sido excluídos artigos
+sobre insônia associada às restantes patologias psiquiátricas e sobre insônia na criança e adolescência.
+Obtiveram-se um total de  artigos, tendo sido excluídos  por não se adequaram ao objetivo
+desta revisão por meio da análise do título do artigo, do resumo ou por se encontrarem repetidos. Dos
+ artigos selecionados,  foram integrados nesta revisão.
+
+Recomendações
+O tratamento da insônia depende do tipo de insônia, devendo ser individualizado de acordo com as
+preferências do paciente, disponibilidade de recursos, gravidade e os riscos, benefícios e custos do tratamento
+.
+
+Figura . Proposta de algoritmo de diagnóstico, tratamento e follow-up da perturbação de insônia.
+
+Tratamento da Insônia
+
+Tratamento não farmacológico
+Diversos estudos demonstram a eficácia da terapia cognitivo-comportamental (TCC) no tratamento
+da insônia, sendo que esta é considerada por várias sociedades médicas como o tratamento padrão.
+A TCC tem revelado:
+• Eficácia comparável aos hipnóticos a curto-prazo, mas mais eficaz a longo-prazo,
+com manutenção dos ganhos alcançados (o que não se verificou com os hipnóticos).
+• Eficácia comprovada no tratamento da insônia em pacientes jovens, idosos e na insônia associada
+a outras patologias, nomeadamente depressão.-
+
+Higiene do Sono
+A higiene do sono inclui um conjunto de hábitos comportamentais que facilitam o adormecer e a
+manutenção do sono, sendo um denominador comum em todas as intervenções terapêuticas utilizadas para
+as perturbações do sono. Esta é útil como coadjuvante de outras terapias cognitivas e/ou farmacológicas,,,
+não existindo dados sobre a sua utilidade no tratamento da insônia aguda .
+
+Terapia Cognitivo-Comportamental
+A TCC inclui diferentes estratégias, com o objetivo de identificar pensamentos, crenças e atitudes
+disfuncionais que perpetuam ou precipitam a insônia e substituí-los por comportamentos e cognições mais
+adequadas.,,,
+Normalmente, consiste num programa de quatro a oito sessões, por meio de uma abordagem com
+múltiplas estratégias, que inclui o controle de estímulo, restrição do sono, relaxamento, terapia cognitiva
+e intenção paradoxal. Alguns autores incluem a higiene do sono nas estratégias da TCC.,
+A TCC tem eficácia comprovada no tratamento da insônia sem ou com comorbilidades, com
+manutenção a longo prazo dos seus efeitos, sendo, assim, recomendada como primeira linha de tratamento
+na insônia sem comorbilidades.
+A TCC em grupo tem-se mostrado eficaz no tratamento da insônia,,, assim como a TCC self-help.
+Este último tenta diminuir a dificuldade de acesso dos pacientes a esta terapia, diminuindo a necessidade
+de sessões presenciais com o terapeuta, utilizando, em substituição, livros, folhetos, vídeos ou internet.,-
+
+Controle de Estímulo
+O objetivo desta estratégia é auxiliar o indivíduo a associar a cama apenas ao sono ou atividade
+sexual e não a sentimentos negativos (como o medo de não conseguir dormir) ou outras atividades que
+possam interferir no sono.,,, O controle de estímulo aumenta a qualidade do sono e tem efeitos mantidos
+a longo prazo .
+
+Restrição do Sono
+Alguns indivíduos com insônia permanecem mais tempo na cama para tentarem recuperar o “sono
+perdido”. Isto acarreta uma maior dificuldade a iniciar o sono na noite seguinte e uma maior necessidade
+
+Quadro . Tratamento Não Farmacológico.
+• Dormir o tempo necessário para se sentir descansado (usualmente -h nos adultos) e posteriormente
+levantar-se da cama;
+• Evitar olhar constantemente para as horas ao deitar;
+
+• Evitar excesso de líquidos ou refeições pesadas à noite;
+
+• Evitar cafeína, nicotina e álcool quatro a seis horas antes de ir para a cama, e minimizar o seu uso diário;
+Higiene do Sono
+
+• Manter um ambiente calmo, escuro, seguro e confortável no quarto quando for se deitar;
+• Evitar um ambiente ruidoso, com luz e temperatura adequada durante o sono;
+
+• Evitar o uso prolongado de TV, tablet, computadores ou celulares antes de dormir;
+• Tentar resolver as “preocupações” antes de se deitar;
+
+• Deitar e acordar todos os dias à mesma hora (±min), incluindo fins-de-semana;
+• Evitar exercício vigoroso três a quatro horas antes de se deitar;
+
+• Evitar dormir durante o dia, especialmente se durar >- minutos.
+• Ir para a cama apenas quando sentir sono;
+
+• Usar a cama/quarto só para dormir e para a atividade sexual;
+• Não ler, comer, ver TV, fazer telefonemas na cama;
+Controle de Estímulo
+
+• Se não conseguir adormecer em - minutos, o paciente deve levantar-se e deslocar-se para outro
+cômodo da casa e realizar tarefas calmas. Só deverá regressar à cama quando sentir sono. Repetir este
+passo todas as vezes necessárias;
+• Colocar o despertador/alarme para despertar à mesma hora todos os dias, incluindo fim-de-semana;
+• Não realizar sestas durante o dia.
+
+• Determinar o tempo de sono médio do paciente a partir do diário do sono;
+
+• Utilizar este tempo médio de sono como o novo período de sono concedido em cada noite;
+Restrição do Sono
+
+• Definir um tempo de vigília consistente com base no tipo de insônia e necessidade do paciente;
+• Evitar realizar sestas durante o dia;
+
+• Se a eficiência do sono aumentar acima de %, aumentar o tempo na cama de  a  minutos;
+
+• Se a eficiência do sono diminuir abaixo de %, em seguida, reduzir o tempo na cama de  a  minutos.
+• Relaxamento muscular progressivo
+
+• Relaxamento e tensão de diferentes grupos musculares do corpo.
+
+• Respiração profunda
+Relaxamento
+
+• Inclui respiração diafragmática.
+
+• Treino autogênico
+
+• Visualização de uma cena/imagem calma e repetição de frases que acalmem o paciente.
+
+• Meditação
+
+• Biofeedback
+
+Fonte: ,,,. h: horas; TV: televisão; Min: minutos.
+
+de permanecer na cama nas manhãs seguintes.,,,, Por meio desta estratégia, induz-se uma privação
+do sono temporária, reduzindo voluntariamente o tempo passado na cama até a um nível que o paciente
+não está habituado. Esta restrição não deve ser, contudo, inferior a -,h.,,,, Esta estratégia está,
+geralmente, indicada para pacientes em que a razão entre o tempo total que passam a dormir e o tempo
+total que passam na cama é inferior a % (esta razão é intitulada eficiência do sono), ou seja, naqueles
+que, apesar de estarem muitas horas na cama, têm tempo total de sono baixo.,,,,
+Como efeitos adversos potenciais, a restrição do sono pode aumentar a sonolência diurna e diminuir
+o tempo de reação .
+
+Relaxamento
+As técnicas de relaxamento podem ser eficazes para reduzir a excitação fisiológica e psicológica e, assim,
+promover o sono.,, Estas são mais eficazes com o intuito de melhorar a fase inicial do sono,,, e deverão ser
+utilizadas durante o dia, antes de deitar e no meio da noite se o paciente não conseguir dormir .,
+
+Terapia Cognitiva
+As crenças, atitudes disfuncionais, preocupações ou expectativas irrealistas sobre o sono podem
+perpetuar a insônia, levando mesmo a um ciclo vicioso.,,, O objetivo da terapia cognitiva é identificar
+essas crenças e atitudes disfuncionais e substituí-las por outras mais adequadas. Esta estratégia deve
+ser aplicada por profissionais especializados em terapia cognitiva.,,,,
+
+Intenção Paradoxal
+A intenção paradoxal tem como objetivo diminuir a ansiedade associada ao medo de não conseguir
+adormecer ou não dormir o suficiente. O paciente é instruído a tentar não adormecer e manter-se acordado
+o maior tempo possível. Isto faz com o paciente relaxe e acabe por adormecer.,,
+
+Exercício Físico
+O exercício físico parece ter um efeito benéfico na qualidade do sono, diminuindo as queixas de
+insônia e o uso de medicação hipnótica.
+O exercício “agudo” (apenas uma sessão de atividade física) parece ter benefícios leves a moderados
+na qualidade do sono, diminuindo a latência do sono e a ansiedade prévia a adormecer e aumentando a
+eficiência do sono e o tempo total de sono. Estes benefícios parecem ocorrer apenas após a prática de
+exercício aeróbio moderado (exemplo, uma caminhada) e não para exercícios aeróbicos intensos (exemplo,
+corrida) ou exercícios de resistência moderados (exemplo, musculação).
+Programas de exercício regular parecem mostrar, nas meta-análises, melhorias semelhantes às
+encontradas para os hipnóticos, sendo que a maioria dos estudos se referem ao exercício aeróbico
+moderado., Todavia, deve-se evitar a sua realização duas horas antes de deitar.,
+
+Acupuntura
+Estudos mostram que tem benefícios no tratamento da insônia, ao melhorar a manutenção e eficiência
+do sono. Contudo, devido à baixa qualidade metodológica dos estudos, a evidência atual não permite que
+se recomende a acupuntura como um tratamento eficaz.,,,
+
+Tratamento farmacológico
+A farmacoterapia deve ser considerada em situações agudas com necessidade de redução imediata
+dos sintomas. A seleção do fármaco deve ter em consideração diferentes fatores como os sintomas,
+objetivos do tratamento, resposta a tratamentos prévios, preferências do paciente, custos, comorbilidades,
+contraindicações e efeitos secundários.,
+
+Fármacos Hipnóticos
+As benzodiazepinas (BZD) e fármacos análogos têm indicação no tratamento da insônia quando
+os sintomas assumem caráter patológico, pelo que não devem ser utilizadas por rotina no tratamento
+sintomático de insônias leves a moderadas. Não devem utilizar-se simultaneamente mais do que uma
+BZD hipnótica ou fármaco análogo.
+Previamente à prescrição de fármacos hipnóticos, o doente deverá ser informado sobre o risco de
+habituação, risco de síndrome de privação, risco de toxicidade com a ingestão concomitante de álcool e/ou
+sedativos, risco de interferir com as funções psicomotoras e risco de quedas (especialmente nos idosos).
+
+Agonista dos recetores das benzodiazepinas
+Estes fármacos produzem um efeito hipnótico semelhante às benzodiazepinas, tendo como exemplo
+o zolpidem .,,,
+Quadro . Agonista dos recetores da benzodiazepinas.
+Substância Ativa
+
+Dose diária (mg)
+
+Zolpidem
+
+-*
+
+Início de ação
+
+Rápido
+
+Duração de ação
+
+Curta
+
+Semi-vida (horas)
+
+, a ,
+
+Contraindicações
+
+Precauções
+
+- SAOS
+- Insuficiência
+pulmonar
+- Depressão
+respiratória
+- Miastenia gravis
+- IH grave
+- Psicose
+- Gravidez e
+aleitamento
+
+- Depressão
+- História de
+abuso de tóxicos
+- IH ou IR
+- Idosos
+
+Fonte: ,,. SAOS: Síndrome apneia obstrutiva do sono; IH: insuficiência hepática; IR: insuficiência renal.* Na mulher mg devido a risco aumentado na condução.
+
+O uso deste fármaco está recomendado no tratamento da insônia a curto prazo, especialmente na
+insônia inicial. O zolpidem diminui a latência do sono e o número de despertares noturnos e aumenta
+a duração e a qualidade do sono. O tratamento com este fármaco deve ser curto, com duração média
+inferior a quatro semanas.,
+Um ensaio clínico randomizado mostrou eficácia do zolpidem até oito meses de tratamento, mas
+sem melhoria nos parâmetros subjetivos relativamente ao placebo.
+Os efeitos secundários mais comuns são cefaleias, tonturas e sonolência. Em , a US Food and
+Drug Administration recomendou o uso de uma dose menor que os mg/dia, especialmente em mulheres,
+visto que doses mais elevadas podem estar associadas a uma diminuição da capacidade de conduzir.
+Estudos mostraram que concentrações sanguíneas de ng/ml serão capazes de diminuir a capacidade
+de dirigir, sendo que estas doses encontram-se em cerca de % das mulheres que tomaram zolpidem
+mg oito horas antes.
+
+Benzodiazepinas
+As BZD estão recomendadas apenas na fase aguda das queixas de insônia, na menor dose possível,
+com duração de duas a quatro semanas.
+
+Estes fármacos diminuem a latência do sono e número de despertares noturnos, aumentando a
+duração e qualidade do sono. Adicionalmente, as BZD podem diminuir as queixas de ansiedade.
+Previamente à prescrição de BZD, dever-se-á avaliar a presença de causalidade ou comorbilidade
+física, abuso de álcool ou outras substâncias, miastenia gravis, insuficiência respiratória grave, apneia do
+sono, insuficiência hepática grave.
+Nos pacientes com queixas de insônia inicial dever-se-á utilizar uma BZD de curta ação e nos
+pacientes com queixas de dificuldade de manutenção do sono é preferível uma BZD com ação mais
+prolongada . O diazepam não deve ser utilizado, pois é de longa duração de ação e pode levar
+à acumulação de metabolitos ativos.
+Quadro . Benzodiazepinas.
+Substância Ativa
+
+Dose diária (mg)
+
+Dose diária idoso (mg)
+
+Início de ação
+
+Duração de ação
+
+Semi-vida (horas)
+
+Interação
+CYP
+
+, - ,
+
+, -,
+
+Rápido
+
+Curta
+
+-
+
+Sim
+
+-
+
+,
+
+Rápido
+
+Intermediário
+
+ - 
+
+Limitado
+
+Intermediário
+
+ - 
+
+Não
+
+Longo
+
+ - 
+
+Limitado
+
+Triazolam
+
+Brotizolam
+
+, - ,
+
+Loprazolam
+
+-
+
+, - 
+
+Temazepam
+
+ - 
+
+
+
+Intermediário
+
+Intermediário
+
+Diazepam*
+
+-
+
+
+
+Rápido
+
+Longo
+
+Estazolam
+
+Lorazepam
+
+Flurazepam
+
+-
+
+ - 
+
+,
+
+, - 
+
+
+Rápido
+Rápido
+
+Intermediária
+Rápido
+
+Curta
+
+Intermediário
+
+Fonte: ,,,. * Deve ser evitado devido a sua longa duração de ação e possibilidade de acumulação de metabólitos.
+
+-
+
+-
+
+ - 
+
+-
+
+-
+
+-
+
+Não
+
+Limitado
+
+Os efeitos adversos mais comuns são sedação matinal, incoordenação motora, perturbações mnésicas,
+sonolência excessiva, atraso de tempo de reação, redução da libido e desinibição comportamental.,
+Após duas a quatro semanas de utilização, aumenta o risco de desenvolver tolerância, dependência física
+e psicológica e síndrome de privação.
+Esta síndrome pode durar até três semanas após a suspensão de BZD de longa ação e caracteriza-se
+pela presença de sintomas de ansiedade, perda de apetite, tremor, sudação e alterações perceptuais.
+A maioria dos hipnóticos são depressores respiratórios, pelo que podem agravar a síndrome da apneia
+obstrutiva do sono ou hipoventilação.,
+
+Antidepressivos
+Os antidepressivos sedativos  são fármacos comumente prescritos para o tratamento
+da insônia, embora conclusões que comprovem a sua eficácia sejam limitadas. Geralmente, as doses
+utilizadas para indução do sono são inferiores às utilizadas no tratamento da depressão.
+No momento atual, não há evidência que sustente a sua eficácia na insônia sem comorbilidades
+médicas ou psiquiátricas, contudo, podem estar indicados como primeira linha quando a insônia está
+associada a sintomas depressivos ou de ansiedade ou em pacientes com abuso de substâncias.,,,
+
+Trazodona
+Atualmente, não existe evidência sustentada da eficácia da trazodona no tratamento da insônia.,
+
+Quadro . Antidepressivos com efeito sedativo.
+Substância Ativa
+
+Agomelatina
+
+Dose inicial
+(mg)
+
+
+
+Dose máxima
+diária (mg)
+
+
+
+Início de
+ação (horas)
+
+-
+
+Duração de
+ação (horas)
+
+-
+
+Amitriptilina
+
+-
+
+
+
+-
+
+-
+
+Mianserina
+
+-
+
+
+
+-
+
+-
+
+Mirtazapina
+
+Trazodona
+
+
+
+
+
+
+
+
+
+,-,
+
+,-
+
+Fonte: ,,,. EAM: enfarte de agudo do miocárdio; AV: auriculoventricular.
+
+-
+
+
+
+Contraindicações e precauções
+
+- Disfunção hepática
+- Inibidores potentes CYPA (ex. fluvoxamina,
+ciprofloxacina)
+- Monitorizar as transaminases séricas durante
+o tratamento
+- Infarto Agudo do Miocárdio recente
+- Arritmias
+- Fase maníaca da doença bipolar
+- Doença hepática grave
+
+- História de epilepsia
+- Deve-se fazer controle do hemograma ao fim
+de quatro semanas nos primeiros três meses
+- Epilepsia
+- Alterações da função hepática e renal
+- Hipotensão
+- História de retenção urinária
+- Glaucoma de ângulo aberto
+- Psicose
+- História de doença bipolar
+- Gravidez e aleitamento
+
+- Contraindicado - EAM recente
+- Epilepsia
+- Insuficiência hepática ou renal
+- Angina pectoris, distúrbios de condução ou
+bloqueios AV
+- Hipertiroidismo
+- Glaucoma de ângulo fechado agudo
+
+Um estudo randomizado concluiu que a trazodona ao final de uma semana de utilização melhorou
+a latência do sono, duração total do sono e número de despertares noturnos quando comparado com o
+placebo, contudo, na segunda semana de utilização não se verificaram diferenças entre a trazodona e o
+placebo.,,
+Por outro lado, na depressão com insônia comórbida, estudos verificaram melhoria da qualidade do
+sono e do número de despertares noturnos.
+
+Mirtazapina, Amitriptilina, Mianserina
+Não há evidência sustentada para a eficácia destes antidepressivos, não existindo estudos a longo
+prazo. Eles têm um potencial efeito benéfico na insônia associada à depressão.
+
+Agomelatina
+Tem um efeito potencial na regulação do ritmo circadiano nos pacientes com depressão., Verifica-se
+uma melhoria da qualidade do sono, redução da latência do sono e redução dos despertares noturnos
+em pacientes com depressão comorbida., Aparentemente, tem menos efeitos secundários que outros
+antidepressivos, nomeadamente na disfunção sexual ou sintomas de descontinuação.
+
+Antipsicóticos
+Não estão recomendados em pacientes sem psicose, dado que não há evidência comprovada da
+sua eficácia. Em relação à quetiapina, os benefícios no tratamento da insônia não superam os riscos
+potenciais da utilização do fármaco, mesmo em doentes com condições comórbidas, que possam justificar
+o seu uso.,
+
+Anti-histamínicos
+Não há evidência que os anti-histamínicos melhorem as queixas de insônia., Por outro lado, podem
+causar sedação no dia seguinte, assim como estão associados a efeitos secundários como diminuição
+do tempo de reação, diminuição da capacidade cognitiva, delírio, alterações visuais, retenção urinária e
+constipação intestinal.
+
+Valeriana
+Atualmente, existe uma baixa evidência do benefício da utilização de valeriana no tratamento da
+insônia. Contudo, o uso deste fármaco, em alguns estudos, parece ter algum efeito benéfico ao melhorar
+subjetivamente a qualidade do sono dos pacientes.,
+
+Melatonina
+A melatonina apresenta efeitos modestos no tratamento da insônia sem comorbilidades, parecendo
+diminuir a latência do sono, aumentar o tempo total de sono e a qualidade do sono.,, Todavia, os efeitos
+observados são inferiores ao de outros tratamentos farmacológicos. A melatonina poderá ser uma escolha
+de tratamento na perturbação do sono relacionada com o ritmo circadiano.
+
+Insônia em Situações Específicas
+Existem algumas especificidades relativamente ao tratamento da insônia no idoso, durante a gravidez,
+em pacientes com abuso crônico de álcool e em pacientes com depressão .,-
+
+Critérios de Referenciação
+São critérios de referenciação para os cuidados de saúde secundários a perturbação do sono
+relacionada com a respiração, sonolência diurna excessiva, narcolepsia, parassônias, dúvidas de
+diagnóstico, má resposta ao tratamento adequado (farmacológico ou não farmacológico) e referenciação
+para realização de TCC por profissionais especializados.,,
+
+Conclusão
+As queixas de insônia são muito prevalentes nos cuidados de saúde primários, pelo que o médico
+de família deve conhecer a melhor abordagem para o seu tratamento. Numa sociedade cada vez mais
+medicalizada, é importante que o médico de família reconheça e aplique a terapêutica não farmacológica.
+Quadro . Tratamento da Insônia em Situações Específicas.
+• TCC é eficaz no tratamento da insônia do idoso.,-
+
+• Eficácia a longo prazo, tanto na melhoria subjetiva como objetiva da qualidade e tempo de sono.,
+• Mais custo-efetiva que os hipnóticos e reduz a necessidade de utilização deste tipo de fármacos.
+• Deverá ser considerada como terapêutica de ª linha na insônia crônica do idoso.,,
+
+• Hipnóticos:
+
+• Utilização com precaução, não estando recomendado o uso superior a um mês. ,
+
+• A utilização de benzodiazepinas de longa duração de ação deve ser evitada, devido ao aumento de risco de
+sedação diurna, quedas e confusão. Quando existir necessidade de as utilizar, dever-se-á usar a dose menor
+possível.
+Idoso
+
+• Segundo os  Beers Criteria da American Geriatrics Society, não está recomendada a utilização de BZD e o
+zolpidem não deverá ser utilizado mais do que  dias.
+
+• Outros Fármacos:
+
+• A melatonina parece ser eficaz, mas apresenta resultados contraditórios entre diferentes estudos.
+
+• O consenso da British Association for Psychopharmacology recomenda que quando há indicação para o uso
+de um hipnótico num paciente com mais de  anos de idade, a melatonina de libertação prolongada deve ser
+utilizada previamente a outros fármacos.
+
+• Atualmente, existe evidência fraca que recomende o uso de antidepressivos sedativos em idosos com insônia
+comórbida.,
+• Relativamente aos anti-histamínicos, não existe evidência da sua eficácia, pelo que estes devem ser evitados
+devido aos efeitos secundários.,
+
+• Maioria dos hipnóticos e sedativos utilizados no tratamento da insônia são categorizados com nível C, D ou X.
+Gravidez
+
+• TCC é eficaz e mais custo-efetiva do que a farmacoterapia.
+
+• Nota: Mulheres medicadas cronicamente com BZD ou fármacos análogos não devem suspender abruptamente
+quando confirmada a gravidez devido ao efeito de rebound. Dever-se-á elaborar um plano de descontinuação.
+
+• Tratamento da dependência do álcool é o tratamento de primeira linha para a insônia relacionada com abuso do
+álcool.
+• Pode persistir durante meses a anos após cessação dos consumos.
+• Durante a abstinência alcoólica:
+Abuso
+Crônico do
+Álcool
+
+• TCC é o preferível pois tem efeitos a longo prazo.
+
+• Trazodona é dos fármacos mais utilizados e estudados, deve ser evitada em pacientes com dificuldade em manter
+a abstinência alcoólica.,
+• Gabapentina é frequentemente utilizada, particularmente útil em doentes com componente ansioso.
+• Mirtazapina poderá ser útil nos pacientes deprimidos.
+
+• Benzodiazepinas e fármacos análogos são geralmente evitados devido ao potencial risco para o abuso crônico,
+dependência e uso excessivo em combinação com álcool. Estes fármacos são frequentemente utilizados na
+síndrome de abstinência alcoólica.
+
+• TCC e farmacoterapia são eficazes no tratamento da insônia e depressão.,
+
+• Os antidepressivos com efeitos sedativos são eficazes em monoterapia no tratamento dos sintomas de insônia e
+depressão, como por exemplo a trazodona, mianserina, agomelatina.
+Depressão
+
+• É preferível iniciar o tratamento com a utilização de apenas um fármaco que possa melhorar a sintomatologia da
+depressão e da insônia.
+• Trazodona e a mirtazapina mostraram benefício no tratamento da insônia com depressão comórbida.
+
+• Agomelatina mostrou benefício no tratamento dos sintomas de depressão e de insônia em pacientes com
+depressão major.,
+
+• Coadministração de dois antidepressivos em pacientes com resposta inadequada ao tratamento em monoterapia.
+• Adição de zolpidem ou BZD se a prescrição de um antidepressivo sedativo não for apropriada para o paciente.
+Quando é necessária a utilização de medidas farmacológicas, o médico deve adequar o tratamento a cada
+situação específica e às características de cada paciente. É importante ter em conta todas as comorbilidades
+do paciente e praticar uma Medicina apoiada também na prevenção quaternária.
